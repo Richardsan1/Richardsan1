@@ -1,4 +1,4 @@
-# Hello! I am Richard Sanches, a student of programmation. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello! I am Richard Sanches, a student of programmation. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 ## - 💬 Languages:
 <div>
