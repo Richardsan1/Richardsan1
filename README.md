@@ -1,6 +1,6 @@
 ## Hello! I am Richard Sanches, and this is my Github profile. 👋
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reidakaiMFZ)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=reidakaiMFZ)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   <!--
 **ReidakaiMFZ/ReidakaiMFZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
