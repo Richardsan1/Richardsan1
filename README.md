@@ -1,5 +1,7 @@
 # Hello! I am Richard Sanches, a student of programming. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">
 
+[![Generic badge](https://img.shields.io/badge/Looking_for_job-Yes-green.svg)](https://shields.io/)
+
 ## - 💬 Languages i use:
 
 <div>
