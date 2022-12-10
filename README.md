@@ -1,10 +1,18 @@
-# Hello! I am Richard Sanches, a student of programming. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">
+# Hello! I am Richard Sanches <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">
 
-[![Generic badge](https://img.shields.io/badge/Looking_for_job-Yes-green.svg)](https://shields.io/)
+<!-- [![Generic badge](https://img.shields.io/badge/Looking_for_job-Yes-green.svg)](https://shields.io/) -->
 
-## - 💬 Languages i use:
+## - 👨‍💻 About me:
+
+I am an Analisys and System development technician at Etec Jaraguá, I am currently looking for a job as a developer and learning C and Django, I am a person who likes to learn new things and I am always looking for new challenges.
+
+## - 💬 Technologies I use:
 
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -13,23 +21,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 </div>
 
-## - Technologies i use:
-
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-</div>
-
-## - :books: What i am learning:
+## - :books: What I am learning:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="40" height="40"/>
 </div>
 
 ## - 📊 My Github stats:
-<div align="center">
+<div >
   <a href="https://github.com/ReidakaiMFZ"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReidakaiMFZ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReidakaiMFZ&layout=compact&langs_count=7&theme=dark"/>
