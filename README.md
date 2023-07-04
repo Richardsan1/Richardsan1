@@ -1,10 +1,10 @@
 # Hello! I am Richard Sanches <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">
 
-<!-- [![Generic badge](https://img.shields.io/badge/Looking_for_job-Yes-green.svg)](https://shields.io/) -->
+![Generic badge](https://img.shields.io/badge/Open_to_work-Yes-green.svg)
 
 ## - 👨‍💻 About me:
 
-I am an Analisys and System development technician at Etec Jaraguá, I am currently looking for a job as a developer and learning C and Django, I am a person who likes to learn new things and I am always looking for new challenges.
+I am an Analisys and System development technician at Etec Jaraguá, I am currently looking for a job as a developer. I am a person who likes to learn new things and I am always looking for new challenges.
 
 ## - 💬 Technologies I use:
 
@@ -19,19 +19,20 @@ I am an Analisys and System development technician at Etec Jaraguá, I am curren
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
 </div>
 
 ## - :books: What I am learning:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
 </div>
 
 ## - 📊 My Github stats:
 <div >
   <a href="https://github.com/ReidakaiMFZ"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReidakaiMFZ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReidakaiMFZ&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Richardsan1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardsan1&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## - 😃 Connect with me:
